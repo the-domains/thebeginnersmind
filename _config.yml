@@ -1,0 +1,28 @@
+name: thebeginnersmind
+favicon: null
+layout_spectrum: 0.08601885917596519
+typography_spectrum: 0.9198987141717225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.19874761370010674
+  lightness: 0.937165278242901
+  saturation: 0.8587809463497251
+  rhythmicContrast: 0.7465457750950009
+purpose: []
